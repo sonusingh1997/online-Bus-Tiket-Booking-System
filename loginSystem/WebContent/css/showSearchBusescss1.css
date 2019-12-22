@@ -1,0 +1,118 @@
+
+.bottom{
+    position: absolute;
+	text-align: center;
+  	top: 155px;
+    right:299px;
+	font-style:bolder;
+  	color:black;
+	border-radius:100px;
+  	
+	}
+	.stn{
+	 border: none;
+     border-radius: none;
+     background-color: SkyBlue;
+	 margin:0;
+	 height:10px;
+	 width:100%;
+	 color:RoyalBlue;
+	 right:-180px;
+	 font-style:italic;
+	font-size: 19px;
+	
+	}
+ body {
+    margin:0;
+    padding:0
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+.logo{
+	position: absolute;
+	top: 0.6%;
+	left: 210px;
+	transform: translate(-15%,-5%);
+	right:-240px;
+	}
+	 #myHeader{
+    height:40px;
+	width:100%;
+	color:DodgerBlue;
+	margin:0;
+	background-color: SkyBlue;
+	font-family:verdana;
+	margin:0px;
+	text-align: center;
+    }
+  .headerlogo{
+    overflow: hidden;
+	font-style:italic;
+	color:RoyalBlue;
+    background-color: SkyBlue;
+	height:60px;
+	width:100%;
+  }
+  .headerlogo a {
+    float: right;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 5px 7px;
+	transform: translate(-140%,75%);
+	font-size: 19px;
+  }
+   .headerlogo a:hover {
+    background-color:#dfeef7 ;
+    color:black;
+   }
+   .logo1{
+	position: absolute;
+	top: 0.3%;
+	max-width:100%;
+    height:auto;
+	left: 100px;
+	transform: translate(-18.5%,-15%);
+	right:-180px;
+	padding:40px;
+	}
+	.title{
+		font-style:italic;
+		 text-shadow: 2px 2px white;
+	}
+	body {
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .topnav {
+    overflow: hidden;
+    background-color: SkyBlue;
+	margin:0;
+	height:70px;
+	width:100%;
+	
+  }
+
+ .topnav a {
+    float: right;
+	color:RoyalBlue;
+	font-style:italic;
+	text-align: center;
+	padding: 25px 27px;
+	font-size: 19px;
+	
+	
+ }
+
+ .topnav a:hover {
+    background-color: ;
+    color:black;
+	
+ }
+
+
+  
+ 	
+	
+  
+	

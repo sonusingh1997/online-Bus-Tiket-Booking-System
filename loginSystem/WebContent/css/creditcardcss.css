@@ -1,0 +1,175 @@
+ #myHeader{
+    height:40px;
+	width:100%;
+	color:DodgerBlue;
+	margin:0;
+	background-color: SkyBlue;
+	font-family:verdana;
+	margin:0px;
+	text-align: center;
+    }
+    .stn{
+	 border: none;
+     border-radius: none;
+     background-color: SkyBlue;
+	 margin:0;
+	 height:10px;
+	 width:100%;
+	 color:RoyalBlue;
+	 right:-180px;
+	 font-style:italic;
+	font-size: 19px;
+	
+	}
+  .headerlogo{
+    overflow: hidden;
+	font-style:italic;
+	color:RoyalBlue;
+    background-color: SkyBlue;
+	height:50px;
+	width:100%;
+  }
+  .headerlogo a {
+    float: right;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 5px 7px;
+	transform: translate(-150%,75%);
+	font-size: 19px;
+  }
+   .headerlogo a:hover {
+    background-color:#dfeef7 ;
+    color:black;
+   }
+  
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+	
+ }
+
+ .topnav {
+    overflow: hidden;
+    background-color: SkyBlue;
+	margin:0;
+	height:70px;
+	width:100%;
+	
+  }
+
+ .topnav a {
+    float: right;
+	color:RoyalBlue;
+	font-style:italic;
+	text-align: center;
+	padding: 25px 27px;
+	font-size: 19px;
+	
+	
+ }
+
+ .topnav a:hover {
+    background-color: ;
+    color:black;
+	
+ }
+ .logo{
+	position: absolute;
+	top: 0.6%;
+	left: 210px;
+	transform: translate(-15%,-5%);
+	right:-240px;
+	}
+	.logo1{
+	position: absolute;
+	top: 0.6%;
+	max-width:100%;
+    height:auto;
+	left: 100px;
+	transform: translate(-23%,-15%);
+	right:-180px;
+	padding:40px;
+	}
+ .bottom{
+    position: absolute;
+	text-align: center;
+  	top: 167px;
+    right:600px;
+	font-style:bold;
+  	color:black;
+	border-radius:100px;
+	}
+ input[type=text]{
+    width: 40%;
+    
+    text-align: center;
+    padding: 10px 15px;
+    margin:  0;
+    display: inline-block;
+    border: 5px solid skyblue;
+    border-radius:40px;
+    }
+	input[type=date]{
+    width: 40%;
+    padding: 8px 18px;
+    margin:  5px;
+    display: inline-block;
+    border: 2px solid skyblue;
+    border-radius:30px;
+    
+    }
+  input[type=password]{
+    width: 40%;
+    padding: 8px 18px;
+    margin:  0;
+    display: inline-block;
+    border: 2px solid skyblue;
+    border-radius:30px;
+    
+    }
+     input[type=Number]{
+    width: 40%;
+    padding: 8px 18px;
+    margin:  0;
+    display: inline-block;
+    border: 2px solid skyblue;
+    border-radius:30px;
+    
+    }
+ input[type="submit"]{
+	border-width:;
+	outline:none;
+	height:40px;
+	width:150px;
+	background-color:#d74f57;
+	color:#fff;
+    font-size:16px;
+	border-radius:20px;
+    text-transform: none;
+    }
+ input[type="submit"]:hover{
+	cursor:pointer;
+	background:#39dc79;
+	color:#000;
+    }
+ .a{
+	text-decoration:;
+	font-size:17px;
+	color:black;
+    }
+ a:hover{
+    color:black;
+    }
+  .top_center{
+	position: absolute;
+	text-align: right;
+  	top: 70px;
+  	right: 100px;
+  	color:DeepBlue;
+  	transform: translate(-70px,200px);
+	}
+ .title{
+	font-style:italic;
+	text-shadow: 2px 2px white;
+	}
+	
